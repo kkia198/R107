@@ -5,3 +5,5 @@ minute = int(input("Entrez les minutes 0 à 59 "))
 minutes_jours = (jour - 1) * 24 * 60
 
 print(" le nombre de minutes écoulées depuis le début du mois est :" ,minutes_jours)
+
+
